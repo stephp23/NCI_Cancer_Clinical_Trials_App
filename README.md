@@ -5,11 +5,19 @@
 
 ## Description
 
-This is a web application that allows for users to gather specific information about National Cancer Institute supported clinical trials. Users will be able to look at information regarding clinical trials, based on diffferent parameters, such as : disease, location, interventions, research hospitals. 
+This is a web application that allows users to gather specific information about National Cancer Institute supported clinical trials. Users will be able to look at information regarding clinical trials, based on diffferent parameters, such as : disease, disease progression, interventions, age of study participant, and location of clinical trials. The Ctrials application takes it a step further, by allowing users to see clinical trials that are conducted nearby, in the context of an interative Google map. 
 
-Search Tab for 
-Terms
-Interventions
+- Search Tabs and Dropdown menus give user the ability to narrow down by the main parameters:
+      -Health Condition patient is experiencing. 
+      -Key Words and Phrases related to health condition or treatments.
+      -Disease Porgression including cancer stages and reccurent health conditions.
+      -Age of Prospective Study Participant 
+    
+- Second item
+- Third item
+- Fourth item
+
+
 
 
 
