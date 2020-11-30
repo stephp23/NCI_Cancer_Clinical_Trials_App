@@ -36,7 +36,7 @@ Create a new account or sign-in. Select a character. Choose the level you would 
       <tr>
           <th align="center" height="15"><h3>HOMESCREEN</h3></th>
           <th align="center" height="15"><h3>MENUS</h3></th>
-          <th align="center" height="15"><h3>GAMEPLAY</h3></th>
+          <th align="center" height="15"><h3>SEARCH RESULTS</h3></th>
       </tr>
       <tr>
         <td align="center">
