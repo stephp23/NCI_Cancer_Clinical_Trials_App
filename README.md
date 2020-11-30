@@ -27,7 +27,9 @@ Adding a Google Map with a Marker to Your Website
 
 ### NCI Clinical Trials Search API
 
-  https://clinicaltrialsapi.cancer.gov/
+![](./NCI_API.png)
+
+  #### https://clinicaltrialsapi.cancer.gov/
   
 ### Google Maps Jacascript API
 
