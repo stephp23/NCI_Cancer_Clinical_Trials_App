@@ -62,7 +62,10 @@ We do not own the rights to any of the images included in this repository. All i
 
 ## Contact
 
-Want to know more? Feel free to reach us at:
+### Developed by: Stephanie Pena and David Espinal 
 
-- [LinkedIn](https://www.linkedin.com/in/stephanie-a-pe%C3%B1a-1132bb16a/)
+#### Want to know more? Feel free to reach us at:
+
+- [LinkedIn - Stephanie Pena](https://www.linkedin.com/in/stephanie-a-pe%C3%B1a-1132bb16a/)
+- [LinkedIn - David Espinal](https://www.linkedin.com/in/david-espinal-28b91a1b7/)
 - [Email](mailto:stephp23@gmail.com)
