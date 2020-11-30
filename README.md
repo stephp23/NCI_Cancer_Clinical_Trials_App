@@ -10,7 +10,7 @@ This is a web application that allows users to gather specific information about
 
 ## User Interfaces
 
-### - Homepage Search Tabs and Dropdown menus give user the ability to narrow down by the main parameters.
+### Homepage Search Tabs and Dropdown menus give user the ability to narrow down by the main parameters.
 -     Health Condition patient is experiencing. 
 -     Key Words and Phrases related to health condition or treatments.
 -     Disease Porgression including cancer stages and reccurent health conditions.
@@ -19,7 +19,7 @@ This is a web application that allows users to gather specific information about
 ![](./cancer_app_Desktop_page_1.png)
 
 
-### - Second Page of the application will provide further search breakdown.
+### Second Page of the application will provide further search breakdown.
 -     User will be able to narrow down search results by different types of clinical trials by checking off and selecting all the different trial types to include.
 -     User will have the choice to further narrow down results based on geolocation of the clinical trials, by selecting a country (from a dropdown menu), US state (from a dropdown menu), or actively inputing into a search bar for cities (needed for locations outside the United States). The user will also be able to input a desired distance away from their given location, to look for clinical trials. 
 -     The results yeilded from based search will then be shown on Google Map with markers symbolozing each clinical trial in its location, near the user's given location. A list of the clinical trials shown on the map will be displayed below the map, with buttons that allow the user to click individual trials for further information.
@@ -27,7 +27,7 @@ This is a web application that allows users to gather specific information about
 ![](./cancer_app_Desktop_page_2.png)
 
 
-### - Third Page of the application will provide detailed information on the chosen trial user has selected from the yeilded results. 
+### Third Page of the application will provide detailed information on the chosen trial user has selected from the yeilded results. 
 
 ![](./cancer_app_Desktop_page_3.png)
 
