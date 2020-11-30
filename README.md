@@ -3,7 +3,7 @@
 
 <div align="center">
 <img
-    src=
+    src=[](./.png)
     width="100%"
   />
 </div>
