@@ -9,10 +9,16 @@
 
 ## Description
 
-This is an iOS compatible side-scrolling, 2D, aquatic-themed, multi-level game
-that allows single-handed game-play. The object of the game is for a user to
-move their character across dangerous waters collecting Pellets in a given
-amount of time while avoiding other creatures and hooks. This game was inspired by FlappyBird but has an underwater twist.
+This is a web application that allows for users to gather specific information about National Cancer Institute supported clinical trials. Users will be able to look at information regarding clinical trials, based on diffferent parameters, such as : disease, location, interventions, research hospitals. 
+
+Search Tab for 
+Terms
+Interventions
+
+
+
+It has desktop, mobile, and tablet responsive capabilities. 
+
 
 #### iPhone 8 or greater
 
