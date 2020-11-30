@@ -1,12 +1,7 @@
 # Ctrials
 # NCI Cancer Clinical Trials Application
 
-<div align="center">
-<img
-    src=[](./.png)
-    width="100%"
-  />
-</div>
+![](./Ctrials_app_banner.png)
 
 ## Description
 
