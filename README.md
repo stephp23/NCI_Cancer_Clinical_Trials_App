@@ -1,5 +1,5 @@
 # Ctrials
-# NCI Cancer Clinical Trials Application
+## A NCI Cancer Clinical Trials API Based Application
 
 ![](./Ctrials_app_banner.png)
 
