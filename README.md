@@ -33,11 +33,11 @@ This is a web application that allows users to gather specific information about
 
 ### Mobile Interface
 
-![](./cancer_app_iPhone8_mobile.png)
+![](./cancer_app_iPhone8_mobile_correct.png)
 
 ### Tablet Interface
 
-![](./cancer_app_tablet.png)
+![](./cancer_app_tablet_correct.png)
 
 ## API Usage
 
