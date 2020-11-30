@@ -45,11 +45,11 @@ This is a web application that allows users to gather specific information about
 
 ![](./NCI_API.png)
 
-  #### https://clinicaltrialsapi.cancer.gov/
+-  https://clinicaltrialsapi.cancer.gov/
   
 ### Google Maps Jacascript API
 
-  #### https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY
+- https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY
 
 
 ## Inspiration
