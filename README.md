@@ -5,7 +5,8 @@
 
 ## Description
 
-This is a web application that allows users to gather specific information about National Cancer Institute supported clinical trials. Users will be able to look at information regarding clinical trials, based on diffferent parameters, such as : disease, disease progression, interventions, age of study participant, and location of clinical trials. The Ctrials application takes it a step further, by allowing users to see clinical trials that are conducted nearby, in the context of an interative Google map. 
+This is a web application that allows users to gather specific information about National Cancer Institute supported clinical trials. Users will be able to look at information regarding clinical trials, based on diffferent parameters, such as : disease, disease progression, interventions, age of study participant, and location of clinical trials. The Ctrials application takes it a step further, by allowing users to see clinical trials that are conducted nearby, in the context of an interative Google map. It has desktop, mobile, and tablet responsive capabilities. 
+
 
 - Homepage Search Tabs and Dropdown menus give user the ability to narrow down by the main parameters.
 -     Health Condition patient is experiencing. 
@@ -14,59 +15,29 @@ This is a web application that allows users to gather specific information about
 -     Age of Prospective Study Participant
 
 
+- Second Page of the application will provide further search breakdown.
+-     User will be able to narrow down search results by different types of clinical trials by selecting all 
+-     
+-     
 
 
 
-It has desktop, mobile, and tablet responsive capabilities. 
+Adding a Google Map with a Marker to Your Website
+## API Usage
 
+### NCI Clinical Trials Search API
 
-#### iPhone 8 or greater
+  https://clinicaltrialsapi.cancer.gov/
+  
+### Google Maps Jacascript API
 
-#### Web Browser (Mac/Windows)
+  
 
 ## User Interface
 
-## User Navigation
-
-Create a new account or sign-in. Select a character. Choose the level you would like to play.
-
-<div align="center">
-  <table>
-    <tbody>
-      <tr>
-          <th align="center" height="15"><h3>HOMESCREEN</h3></th>
-          <th align="center" height="15"><h3>MENUS</h3></th>
-          <th align="center" height="15"><h3>SEARCH RESULTS</h3></th>
-      </tr>
-      <tr>
-        <td align="center">
-          <img
-            src=
-            width="95%"
-          /> 
-        </td>
-        <td align="center">
-          <img
-            src=
-            width="95%"
-          />
-        </td>
-        <td align="center">
-          <img
-            src=
-            width="95%"
-          /> 
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-#### NOTE: This project has only been tested on MAC.
-
 ## Inspiration
 
-We hope to provide a
+We hope to provide an easy to use tool for individuals looking for readily accessible cancer clinical research trials information. 
 
 - [The National Cancer Institute](https://www.cancer.gov/about-cancer/treatment/clinical-trials/search/advanced)
 
