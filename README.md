@@ -65,9 +65,9 @@ This is a web application that allows users to gather specific information about
 
 ## Inspiration
 
-We hope to provide an easy to use tool for individuals looking for readily accessible cancer clinical research trials information, along with location proximity, to better connect possible participants to clinical trials.
+As developers, who were previously in the science fields, we wanted to create an application that could be useful for people who need breakthrough clinical health services and scientific researchers conducting clinical trials. The Ctrials application provides is an easy to use tool for individuals looking for readily accessible cancer clinical research trials information, along with location proximity, to better connect possible participants to clinical trials.  
 
-Thank you to the National Cancer Institute for the development of their clinical trials API. We sought out inspiration from their current search query website: https://www.cancer.gov/about-cancer/treatment/clinical-trials/search/advanced . 
+Thank you to the National Cancer Institute for the development of their clinical trials API. We sought out inspiration from their current search website: https://www.cancer.gov/about-cancer/treatment/clinical-trials/search/advanced . 
 
 ## Contact
 
