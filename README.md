@@ -69,9 +69,10 @@ As developers, who were previously in the biology and science fields, we wanted 
 
 Thank you to the National Cancer Institute for the development of their clinical trials API. We sought out inspiration from their current search website: https://www.cancer.gov/about-cancer/treatment/clinical-trials/search/advanced . 
 
-## Contact
 
 ### Developed by: Stephanie Pena and David Espinal 
+
+## Contact
 
 #### Want to know more? Feel free to reach us at: 
 
