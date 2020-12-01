@@ -16,7 +16,7 @@ This is a web application that allows users to gather specific information about
 -     Disease Porgression including cancer stages and reccurent health conditions.
 -     Age of Prospective Study Participant
 
-![](./cancer_app_Desktop_page_1.png)
+![](./cancer_app_Desktop_page_1_corrected.png)
 
 
 ### Second page of the application will provide further clinical trial search breakdown.
