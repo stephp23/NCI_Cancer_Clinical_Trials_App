@@ -77,6 +77,7 @@ Thank you to the National Cancer Institute for the development of their clinical
 
 - [LinkedIn - Stephanie Pena](https://www.linkedin.com/in/stephanie-a-pe%C3%B1a-1132bb16a/)
 - [LinkedIn - David Espinal](https://www.linkedin.com/in/david-espinal-28b91a1b7/)
-- [Email](mailto:stephp23@gmail.com)
+- [Email - Stephanie Pena](mailto:stephp23@gmail.com)
+- [Email - David Espinal](despinal0425@gmail.com)
 
 ##### Disclaimer: We do not own the rights to any of the images included in this repository. All images were pulled from standard Google searches. 
