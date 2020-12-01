@@ -45,7 +45,7 @@ This is a web application that allows users to gather specific information about
 
 ![](./NCI_API.png)
 
--API enpoints used: Clinical Trials, Disease, Terms, and Interventions.
+- API enpoints used: Clinical Trials, Disease, Terms, and Interventions.
 
 -  https://clinicaltrialsapi.cancer.gov/
   
