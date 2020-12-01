@@ -56,10 +56,10 @@ This is a web application that allows users to gather specific information about
 ## Requirements:
 
 - The Ctrials web application will be developed using HTML, CSS, and Javascript.
-- The data will be retrieved from an external source (the National Cancer Institute's Clinical Trials API and Google Maps API) and rendered into the DOM by using Axios. 
+- The data will be retrieved from an external source (the National Cancer Institute's Clinical Trials API and Google Maps API) by using Axios, and rendered into the DOM. 
 - Flexbox will be used to efficently lay out, align, and distribute elements on the application pages. 
 - An API Key will be utilized to access the Google Maps API, with its corresponding ENV file. 
-- National Cancer Institutue's API does not require an API Key.
+- The National Cancer Institutue's API does not require an API Key.
 - Ctrials will be an application designed and built to be responsive on three different screen sizes: desktop, mobile, and tablet. Application will be hosted on Netlify.
 
 
