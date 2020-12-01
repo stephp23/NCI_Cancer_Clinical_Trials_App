@@ -45,9 +45,11 @@ This is a web application that allows users to gather specific information about
 
 ![](./NCI_API.png)
 
+-API enpoints used: Clinical Trials, Disease, Terms, and Interventions.
+
 -  https://clinicaltrialsapi.cancer.gov/
   
-### Google Maps Jacascript API
+### Google Maps Javascript API
 
 - https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY
 
@@ -61,21 +63,20 @@ This is a web application that allows users to gather specific information about
 - Ctrials will be an application designed and built to be responsive on three different screen sizes: desktop, mobile, and tablet. Application will be hosted on Netlify.
 
 
-
 ## Inspiration
 
-We hope to provide an easy to use tool for individuals looking for readily accessible cancer clinical research trials information. 
+We hope to provide an easy to use tool for individuals looking for readily accessible cancer clinical research trials information, along with location proximity, to better connect possible participants to clinical trials.
 
-- [The National Cancer Institute](https://www.cancer.gov/about-cancer/treatment/clinical-trials/search/advanced)
-
-We do not own the rights to any of the images included in this repository. All images were pulled from standard Google searches. We sought out inspiration from:
+Thank you to the National Cancer Institute for the development of their clinical trials API. We sought out inspiration from their current search query website: https://www.cancer.gov/about-cancer/treatment/clinical-trials/search/advanced . 
 
 ## Contact
 
 ### Developed by: Stephanie Pena and David Espinal 
 
-#### Want to know more? Feel free to reach us at:
+#### Want to know more? Feel free to reach us at: 
 
 - [LinkedIn - Stephanie Pena](https://www.linkedin.com/in/stephanie-a-pe%C3%B1a-1132bb16a/)
 - [LinkedIn - David Espinal](https://www.linkedin.com/in/david-espinal-28b91a1b7/)
 - [Email](mailto:stephp23@gmail.com)
+
+##### Disclaimer: We do not own the rights to any of the images included in this repository. All images were pulled from standard Google searches. 
